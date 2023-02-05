@@ -23,3 +23,6 @@ this is ajax login example using pure js and php with postgresql database.
 5. Login screen: <br>
 ![image](https://user-images.githubusercontent.com/101847989/216797655-10d68486-f778-4c51-88a7-4038d132aec5.png)
 
+6. Password Hash: <br>
+![image](https://user-images.githubusercontent.com/101847989/216799635-075a60e7-f4aa-4386-b5a0-757f11178731.png)
+
